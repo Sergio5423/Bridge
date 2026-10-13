@@ -48,7 +48,7 @@ De acuerdo con las guías oficiales de diseño, debes considerar el uso del patr
 * Se elimina por completo la explosión de clases.
 * Permite añadir nuevos dispositivos o mandos avanzados sin modificar el código preexistente.
 
-![[Pasted image 20261013154328.png]]
+<img width="692" height="539" alt="Screenshot 2026-10-13 154303" src="https://github.com/user-attachments/assets/83d62f09-d97e-49e4-aa9d-b3965a6de8f8" />
 https://refactoring.guru/es/design-patterns/bridge
 
 ---
